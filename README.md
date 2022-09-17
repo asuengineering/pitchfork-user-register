@@ -37,4 +37,5 @@ A small script to lint the codebase is also included via `composer`. It utilizes
 
 ### Version 0.1
 
-- First stable release of the plugin. 
+- MVP for the concept. Contains custom code for Gravity Forms within a page template called `page-request.php` 
+- Adds shortcode [show_loggedin_user] to display the current user details. 
