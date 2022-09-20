@@ -5,12 +5,8 @@
 /*--------------------------------------------------------------
 Media queries modeled on those found in Bootstrap 4.
 --------------------------------------------------------------*/
-/*--------------------------------------------------------------
-# Page Template: page-request.php
+.user-profile img { border-radius: 50%; margin-bottom: 1rem; }
 
---------------------------------------------------------------*/
-#login-button { min-height: 50vh; }
-
-/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY2hpbGQtdGhlbWUuY3NzIiwic291cmNlcyI6WyJjaGlsZC10aGVtZS5zY3NzIiwiLi4vc3JjL2Jvb3RzdHJhcDQtdGhlbWUvc2Fzcy9kZXNpZ24tdG9rZW5zL192YXJpYWJsZXMuc2NzcyIsIl9tZWRpYS1xdWVyaWVzLnNjc3MiLCJfdGVtcGxhdGUtcmVxdWVzdC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7Z0VBR2dFO0FFSGhFOztnRUFFZ0U7QUNGaEU7OztnRUFHZ0U7QUFFaEUsQUFBQSxhQUFhLENBQUMsRUFDVixVQUFVLEVBQUMsSUFBSSxHQUNsQiJ9 */
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY2hpbGQtdGhlbWUuY3NzIiwic291cmNlcyI6WyJjaGlsZC10aGVtZS5zY3NzIiwiLi4vc3JjL2Jvb3RzdHJhcDQtdGhlbWUvc2Fzcy9kZXNpZ24tdG9rZW5zL192YXJpYWJsZXMuc2NzcyIsIl9tZWRpYS1xdWVyaWVzLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7OztnRUFHZ0U7QUVIaEU7O2dFQUVnRTtBRk1oRSxBQUNJLGFBRFMsQ0FDVCxHQUFHLENBQUMsRUFDQSxhQUFhLEVBQUUsR0FBRyxFQUNsQixhQUFhLEVDa0dBLElBQUksR0RqR3BCIn0= */
 
 /*# sourceMappingURL=child-theme.css.map */
