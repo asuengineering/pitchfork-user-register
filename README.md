@@ -35,6 +35,10 @@ A small script to lint the codebase is also included via `composer`. It utilizes
 
 ## Release Notes
 
+### Version 0.2
+
+- Rework logic to use native page templates and redirection based on a known slug.
+
 ### Version 0.1
 
 - MVP for the concept. Contains custom code for Gravity Forms within a page template called `page-request.php` 
